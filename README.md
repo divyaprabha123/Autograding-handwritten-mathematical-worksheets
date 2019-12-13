@@ -36,3 +36,6 @@ Each line is corrected separately
 | 2      | 56 * 7 + 92 | 595 | 484 | Incorrect |
 | 3      | 595 + 92 | 595 | 687 | Incorrect |
 | 4      | 595 | 595 | 595 | Correct |
+
+
+For more detailed description on the workflow see [Report.pdf](../blob/master/Report.pdf)
