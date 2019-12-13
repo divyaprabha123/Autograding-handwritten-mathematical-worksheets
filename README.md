@@ -35,4 +35,4 @@ Each line is corrected separately
 | 4      | 595 | 595 | 595 | Correct |
 
 
-For more detailed description on the workflow see [Report.pdf](https://github.com/divyaprabha123/Evaluation-of-handwritten-equations/master/Report.pdf)
+For more detailed description on the workflow see [Report.pdf](Report.pdf)
