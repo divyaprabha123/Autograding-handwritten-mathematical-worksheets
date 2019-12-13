@@ -21,10 +21,12 @@ Each line is corrected separately
 1. Green Box represents - Line is correct
 2. Red Box represents - Line is incorrect
 ![alt-text](https://drive.google.com/uc?id=1-I3WUjVu09SbItEY54xnBy1_00-09jwY)
-  > Equation given A * X<sup>2</sup> + B * Y
+
+#### Equation given A * X<sup>2</sup> + B * Y
 
 | Line No       | Equation written     | Expected Ans  |   Actual Ans    |   Status       |
 | ------------- |:--------------------:| -------------:| --------------: | --------------:|
 | 1      | 56 * 3<sup>2</sup> + 7 * 13 | 595 | 595 | Correct |
 | 2      | 56 * 7 + 92 | 595 | 484 | InCorrect |
-| 1      | 595 + 92 | 595 | 687 | Correct |
+| 3      | 595 + 92 | 595 | 687 | Correct |
+| 4      | 595 | 595 | 595 | Correct |
