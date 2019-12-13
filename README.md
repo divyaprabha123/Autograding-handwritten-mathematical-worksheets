@@ -24,14 +24,8 @@ Each line is corrected separately
 2. Red Box represents - Line is incorrect
 ![alt-text](https://drive.google.com/uc?id=1-I3WUjVu09SbItEY54xnBy1_00-09jwY)
 
-#### Equation given A * X<sup>2</sup> + B * Y
-> **A = 56**
-   
-> **B = 7**
-   
-> **X = 3**
-   
-> **Y = 13**
+#### Target algebraic equation A * X<sup>2</sup> + B * Y
+   Where A = 56, B = 7, X = 3, Y = 13
 
 | Line No       | Equation written     | Expected Ans  |   Actual Ans    |   Status       |
 | ------------- |:--------------------:| -------------:| --------------: | --------------:|
