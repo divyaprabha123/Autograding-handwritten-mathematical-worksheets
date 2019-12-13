@@ -25,10 +25,13 @@ Each line is corrected separately
 ![alt-text](https://drive.google.com/uc?id=1-I3WUjVu09SbItEY54xnBy1_00-09jwY)
 
 #### Equation given A * X<sup>2</sup> + B * Y
-#### A = 56
-#### B = 7
-#### X = 3
-#### Y = 13
+> **A = 56**
+   
+> **B = 7**
+   
+> **X = 3**
+   
+> **Y = 13**
 
 | Line No       | Equation written     | Expected Ans  |   Actual Ans    |   Status       |
 | ------------- |:--------------------:| -------------:| --------------: | --------------:|
@@ -38,4 +41,4 @@ Each line is corrected separately
 | 4      | 595 | 595 | 595 | Correct |
 
 
-For more detailed description on the workflow see [Report.pdf](../blob/master/Report.pdf)
+For more detailed description on the workflow see [Report.pdf](https://github.com/divyaprabha123/Evaluation-of-handwritten-equations/master/Report.pdf)
