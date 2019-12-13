@@ -27,6 +27,6 @@ Each line is corrected separately
 | Line No       | Equation written     | Expected Ans  |   Actual Ans    |   Status       |
 | ------------- |:--------------------:| -------------:| --------------: | --------------:|
 | 1      | 56 * 3<sup>2</sup> + 7 * 13 | 595 | 595 | Correct |
-| 2      | 56 * 7 + 92 | 595 | 484 | InCorrect |
-| 3      | 595 + 92 | 595 | 687 | Correct |
+| 2      | 56 * 7 + 92 | 595 | 484 | Incorrect |
+| 3      | 595 + 92 | 595 | 687 | Incorrect |
 | 4      | 595 | 595 | 595 | Correct |
