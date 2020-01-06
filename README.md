@@ -38,7 +38,7 @@ Each line is corrected separately
 For more detailed description on the workflow see [Report.pdf](Report.pdf)
 
 ## To evaluate and test
-[Example_worksheet.ipynb](https://github.com/divyaprabha123/Autograding-handwritten-mathematical-worksheets/Example_worksheet.ipynb)
+[Example_worksheet.ipynb](https://github.com/divyaprabha123/Autograding-handwritten-mathematical-worksheets/blob/master/Example_worksheet.ipynb)
 
 
 ## Character Recognition
