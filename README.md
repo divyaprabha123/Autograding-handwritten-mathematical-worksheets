@@ -17,7 +17,7 @@ green lines depending upon their correctness. For more detailed description see
 
 
 
-### Example
+## Example
 Each line is corrected separately 
 
 1. Green Box represents - Line is correct
@@ -36,3 +36,10 @@ Each line is corrected separately
 
 
 For more detailed description on the workflow see [Report.pdf](Report.pdf)
+
+## To evaluate and test
+[Example_worksheet.ipynb](https://github.com/divyaprabha123/Autograding-handwritten-mathematical-worksheets/Example_worksheet.ipynb)
+
+
+## Character Recognition
+Use this [link](https://drive.google.com/uc?id=1OTeIZTsx8VK3tiEI4VsRpZPsECxz5uVF) to download the [DCCNN](https://github.com/titu1994/Deep-Columnar-Convolutional-Neural-Network) model for OCR part of the analysis pipeline 
