@@ -1,5 +1,5 @@
 # Auto-grading of handwritten mathematical worksheets
-
+This repo is the part of internship project with Bosch/RBEI-EDS2.
 Aim of this project is to digitize the steps of solving a mathematical equation written by freehand on a paper, validating the steps and final answer of the recognized handwritten lines by maintaining the context.
 
 ## Workflow
